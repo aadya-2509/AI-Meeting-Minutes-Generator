@@ -73,13 +73,6 @@ View the meeting summary and action items
 
 Download the generated PDF report
 
-Screenshots
-App Interface
-
-Result
-
-PDF Output
-
 Future Improvements
 
 Speaker identification
