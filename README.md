@@ -41,19 +41,26 @@ AI-Meeting-Minutes-Generator/
 │── requirements.txt
 │── README.md
 │── screenshots/
+│ ├── app.png
 │ ├── result.png
 │ └── pdf.png
 
-How to Run
+Installation and Setup
+
+Clone the repository:
+
+git clone https://github.com/aadya-2509/AI-Meeting-Minutes-Generator.git
+cd AI-Meeting-Minutes-Generator
 
 Install dependencies:
+
 py -m pip install -r requirements.txt
 
 Install FFmpeg and add it to system PATH
 
 Run the application:
-streamlit run app.py
 
+streamlit run app.py
 Usage
 
 Open the application in your browser
@@ -67,9 +74,11 @@ View the meeting summary and action items
 Download the generated PDF report
 
 Screenshots
+App Interface
+
 Result
-App
-PDF 
+
+PDF Output
 
 Future Improvements
 
@@ -84,8 +93,3 @@ Integration with meeting platforms
 Author
 
 Aadya Sharma
-
-License
-
-This project is for educational purposes.
-
