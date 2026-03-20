@@ -2,9 +2,9 @@ AI Meeting Minutes Generator
 
 This project is an AI-powered application that converts meeting audio into structured meeting minutes, including a summary and action items.
 
-Features
+Features:
 
-Upload audio recordings of meetings
+Upload audio recording of meetings
 
 Convert speech to text using Whisper
 
@@ -16,7 +16,7 @@ Download results as a PDF report
 
 Simple and interactive UI using Streamlit
 
-Tech Stack
+Tech Stack:
 
 Python
 
@@ -30,7 +30,7 @@ FPDF (PDF generation)
 
 FFmpeg (Audio processing)
 
-Project Structure
+Project Structure:
 
 AI-Meeting-Minutes-Generator/
 │── app.py
@@ -45,7 +45,7 @@ AI-Meeting-Minutes-Generator/
 │ ├── result.png
 │ └── pdf.png
 
-Installation and Setup
+Installation and Setup:
 
 Clone the repository:
 
@@ -61,7 +61,7 @@ Install FFmpeg and add it to system PATH
 Run the application:
 
 streamlit run app.py
-Usage
+Usage:
 
 Open the application in your browser
 
@@ -73,7 +73,7 @@ View the meeting summary and action items
 
 Download the generated PDF report
 
-Future Improvements
+Future Improvements:
 
 Speaker identification
 
@@ -83,6 +83,7 @@ Real-time transcription
 
 Integration with meeting platforms
 
-Author
+Author:
+Aadya Sharma
 
 Aadya Sharma
