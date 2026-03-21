@@ -61,6 +61,7 @@ Install FFmpeg and add it to system PATH
 Run the application:
 
 streamlit run app.py
+
 Usage:
 
 Open the application in your browser
@@ -84,6 +85,4 @@ Real-time transcription
 Integration with meeting platforms
 
 Author:
-Aadya Sharma
-
 Aadya Sharma
